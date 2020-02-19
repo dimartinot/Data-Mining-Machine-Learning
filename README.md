@@ -1,5 +1,5 @@
 # Data-Mining-Machine-Learning
-This project contains all the code developed for the courseworks of the Data Mining & Machine Learning class of Heriot Watt University. 
+This project contains all the code developed for the courseworks of the Data Mining & Machine Learning class of Heriot Watt University as a part of the Master program. 
 
 ## Team
 
